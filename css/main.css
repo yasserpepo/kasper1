@@ -153,7 +153,7 @@ header ul li a:hover, header a.active{
 }
 @media (min-width:768px){
  .toggle-menu{
-   display:none;
+   display:none !important
  }
 }
 
