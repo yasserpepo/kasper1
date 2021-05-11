@@ -158,8 +158,9 @@ header ul li a:hover, header a.active{
 }
 
 .logo img{
-  width:100%;
-  height:100%;
+  /* width:100%;
+  height:100%; */
+  height: 40px
 }
 .active{
   border-bottom: 1px solid var(--main-color);
